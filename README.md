@@ -17,3 +17,5 @@ This repository is For DRC system capstone project House Price Prediction
 ```
 source myenv/bin/activate
 ```
+
+Check out the deployed app here : https://bostonhousepricing-one.vercel.app/
